@@ -9,7 +9,7 @@ The Chess Engine I was working on is done:
 PVP over the board, moderately good UI, full rule enforcement.
 The project is complete and dusted
 
-![alt text](unrelated/image.png)
+![alt text](unRelated/image.png)
 
 The long-term goal is to build a machine learning model trained on data from the Lichess Open Database so the engine can eventually learn to play on its own.
 
